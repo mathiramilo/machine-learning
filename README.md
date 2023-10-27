@@ -1,3 +1,5 @@
+![logo-fing-udelar](https://github.com/mathiramilo/machine-learning/assets/42822912/c393fd7b-afee-44df-ac7b-281541540ec5)
+
 ## Machine Learning
 
 Assignments for the Machine Learning course at the University of Republic UDELAR.
